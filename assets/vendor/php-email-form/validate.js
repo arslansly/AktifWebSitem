@@ -56,7 +56,6 @@
       headers: {'X-Requested-With': 'XMLHttpRequest'}
     })
     .then(response => {
-      console.log(response);
       if( response.ok ) {
         return response.text()
       } else {
