@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/BigWing/css"
+		},
+		{
+			"path": "../../Downloads/BigWing/js"
+		},
+		{
+			"path": "../../Downloads/BigWing/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AktifWebSitem"
+	}
+}
